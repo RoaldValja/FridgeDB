@@ -62,5 +62,6 @@ namespace FridgeDB
                 listFoodInTheFridge.DataSource = foodInTheFridgeTable;
             }
         }
+
     }
 }
